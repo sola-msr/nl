@@ -6,7 +6,7 @@ Nginx Launcher -NL-  For Windows (WIndows bat file)
 Open `nl.bat`, rewrite the following location, save and use.
 
 ```bat
-SET SERVE_DIR=C:\your\project\directory
+SET SERVE_DIR=C:\your\nginx\directory
 ```
 
 # License
