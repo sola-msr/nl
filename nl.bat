@@ -3,7 +3,7 @@ REM Nginx Launcher -NL-
 
 cd /d %~dp0
 
-SET SERVE_DIR=C:\your\project\directory
+SET SERVE_DIR=C:\your\nginx\directory
 
 REM ---------------------------------------------------
 
